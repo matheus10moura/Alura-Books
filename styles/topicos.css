@@ -28,3 +28,13 @@
     font-size: 0.875;
     font-weight: 700;
 }
+
+@media screen and (min-width: 1024px) {
+    .topicos__titulo {
+        font-size: 1.5rem;
+    }
+
+    .topicos__links {
+        font-size: 1.5rem;
+    }
+}
