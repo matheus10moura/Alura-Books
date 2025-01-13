@@ -73,6 +73,10 @@
     text-decoration: none;
 }
 
+.botoes__ancora:active {
+    background-color: var(--azul);
+}
+
 .descricao__estrela {
     margin: 0 0 0.5em;
 }
